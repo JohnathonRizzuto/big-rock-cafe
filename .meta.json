@@ -1,0 +1,10 @@
+{
+  "name": "Big Rock Cafe",
+  "town": "Big Rock IL",
+  "type": "restaurant",
+  "address": "103 E Galena Blvd, Big Rock, IL 60511",
+  "phone": "6305563610",
+  "checklistComplete": 10,
+  "researchStartedAt": "2026-05-21T06:05:00Z",
+  "stage1FinishedAt": "2026-05-21T06:18:00Z"
+}
